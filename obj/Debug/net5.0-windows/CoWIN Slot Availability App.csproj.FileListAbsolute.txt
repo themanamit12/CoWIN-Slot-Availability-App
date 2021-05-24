@@ -1,0 +1,20 @@
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.exe
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.deps.json
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.runtimeconfig.json
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.runtimeconfig.dev.json
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.dll
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\ref\CoWIN Slot Availability App.dll
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\CoWIN Slot Availability App.pdb
+D:\Work\CoWIN Slot Availability App\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.csprojAssemblyReference.cache
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN_Slot_Availability_App.Form1.resources
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.csproj.GenerateResource.cache
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.AssemblyInfoInputs.cache
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.AssemblyInfo.cs
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.csproj.CoreCompileInputs.cache
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.csproj.CopyComplete
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.dll
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\ref\CoWIN Slot Availability App.dll
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.pdb
+D:\Work\CoWIN Slot Availability App\obj\Debug\net5.0-windows\CoWIN Slot Availability App.genruntimeconfig.cache
